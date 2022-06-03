@@ -110,7 +110,7 @@ I have built this project with HTML, vanilla CSS, and JavaScript. This project i
 
 ### Acknowledgements 
 
-I would like to thank my tutor Joy Shaheb in this project that who guided me throught the process. I would also like thank [FreeCodeCamp](https://www.freecodecamp.org/) for bringing up the best education for free. You can also checkout Joy Shaheb's [Youtube Channel](https://www.youtube.com/c/JoyShaheb) for more awesome content by him.
+I would like to thank my tutor Joy Shaheb in this project who guided me throught the process. I would also like to thank [FreeCodeCamp](https://www.freecodecamp.org/) for bringing up the best education content for free. You can also checkout Joy Shaheb's [Youtube Channel](https://www.youtube.com/c/JoyShaheb) for more awesome content by him.
 
 
 
