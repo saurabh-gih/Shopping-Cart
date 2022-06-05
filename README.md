@@ -30,7 +30,7 @@
 
 ### Links 
 
-![Live Site URL](https://saurabhisdev.github.io/Shopping-Cart/)
+[Live Site URL](https://saurabhisdev.github.io/Shopping-Cart/)
 
 ### Process 
 
